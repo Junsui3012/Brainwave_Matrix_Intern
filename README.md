@@ -41,7 +41,7 @@ This repository is primarily for internship tasks, but feedback or suggestions a
 ## Contact
 For any questions or clarifications, feel free to reach out:
 - GitHub: [Junsui3012](https://github.com/Junsui3012)
-- Email: [Your email, if applicable]
+- Email: sajals8909@gmail.com
 
 ## License
 This repository is maintained for internship purposes and does not currently include a specific license. All content is owned by the repository owner unless otherwise stated.
