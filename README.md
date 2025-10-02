@@ -30,8 +30,10 @@ To explore or contribute to this repository:
    ```bash
    cd Brainwave_Matrix_Intern
    ```
-3. **Install Dependencies** (if applicable):
-   Follow any task-specific instructions provided in the relevant folders or documentation.
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
 4. **Run or Review Code**:
    Refer to individual task folders for specific instructions on running code or reviewing deliverables.
 
