@@ -32,6 +32,8 @@ Brainwave_Matrix_Intern/
 │
 ├── 📁 Task 1/
 │   ├── 📁 dataset/
+│   │   ├── 📄 Fake.csv
+│   │   └── 📄 True.csv
 │   └── 📓 code.ipynb — Fake News Article Detection
 │
 ├── 📁 Task 2/
