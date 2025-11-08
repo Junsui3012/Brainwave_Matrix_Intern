@@ -31,15 +31,16 @@ This repository is designed to:
 Brainwave_Matrix_Intern/
 │
 ├── 📁 Task 1/
-│   ├── Dataset (Complete)
-│   └── Jupyter Notebook — Fake News Article Detection
+│   ├── 📁 dataset/
+│   └── 📓 code.ipynb — Fake News Article Detection
 │
 ├── 📁 Task 2/
-│   ├── Dataset Link
-│   └── Jupyter Notebook — Credit Card Fraud Detection
+│   ├── 📓 code.ipynb — Credit Card Fraud Detection
+│   └── 📄 data.txt
 │
-├── 📄 requirements.txt
-└── 📄 README.md
+├── 🚫 .gitignore
+├── 📄 README.md
+└── 📄 requirements.txt
 ```
 
 ## 🚀 Getting Started
